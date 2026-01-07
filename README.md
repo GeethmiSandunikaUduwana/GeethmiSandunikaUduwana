@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- Unique Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=250&section=header&text=Geethmi%20Sandunika%20Uduwana&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:162447&height=280&section=header&text=✨%20Geethmi%20Sandunika%20Uduwana%20✨&fontSize=45&fontColor=00FFE1&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">
@@ -11,6 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=600&lines=DevOps+Intern+Candidate;Automation+%7C+CI%2FCD+%7C+Cloud;Build+Once%2C+Deploy+Everywhere;Learning+Never+Stops+%F0%9F%94%A5" />
 </p>
 
+
 ---
 
 ## 👩‍💻 About Me
@@ -19,7 +20,7 @@
 ⚙️ Passionate about **DevOps, Automation, and Cloud Technologies**  
 🌱 Currently sharpening skills in **CI/CD pipelines & container orchestration**  
 🎯 **Career Goal:** DevOps Engineer / Cloud Engineer  
-💡 I love building **scalable, automated, and efficient systems**
+💡 I love building **scalable, automated, and efficient systems**  
 
 ---
 
@@ -32,12 +33,12 @@
 
 ### 🌐 Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,nodejs,react" />
 </p>
 
-### 🧠 Databases & Frameworks
+### 📊 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 📱 Mobile & UI
@@ -63,11 +64,19 @@
 
 ---
 
-## 📊 GitHub Stats (Animated)
-
+## 📊 GitHub Stats & Activity (Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethmiSandunikaUduwana&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GeethmiSandunikaUduwana&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmiSandunikaUduwana&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeethmiSandunikaUduwana&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeethmiSandunikaUduwana&theme=tokyonight&no-frame=true&column=7" />
 </p>
 
 ---
@@ -76,8 +85,8 @@
 
 📦 Advanced Docker & Kubernetes  
 ☁️ Cloud Platforms (AWS – upcoming)  
-⚙️ Infrastructure as Code  
-📈 Monitoring & Logging Tools  
+⚙️ Infrastructure as Code (Terraform, Ansible)  
+📈 Monitoring & Logging Tools (Prometheus, Grafana)  
 
 ---
 
@@ -90,12 +99,15 @@
   <a href="mailto:geethmiuduwana@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/GeethmiSandunikaUduwana">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=120&section=footer"/>
 </p>
 
 <p align="center">
